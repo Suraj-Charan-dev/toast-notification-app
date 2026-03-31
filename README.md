@@ -65,7 +65,7 @@ toast-notification/
 
 🌐 Live Demo  
 
-👉🏻 https://your-username.github.io/toast-notification/  
+👉🏻 https://suraj-charan-dev.github.io/toast-notification-app/ 
 
 ---  
 
